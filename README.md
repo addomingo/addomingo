@@ -19,3 +19,8 @@
 <p align="left">
   I like drawing, making handmade stuff like crochet, playing games such as Stardew Valley and Genshin Impact, and recently, cooking!
 </p>
+
+<hr>
+
+<h3 align="left">Exercise 01 -- Success!</h3>
+Check out my Personal Github account: https://github.com/addomingo/addomingo.git
