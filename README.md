@@ -23,4 +23,4 @@
 <hr>
 
 <h3 align="left">Exercise 01 -- Success!</h3>
-Check out my Personal Github account: https://github.com/addomingo/addomingo.git
+Check out my Personal Github account: https://github.com/addomingo
