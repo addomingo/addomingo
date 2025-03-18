@@ -37,7 +37,7 @@
 </p>
 
 
-<h3 align="center">🎯 Projects</h3>
+<h3 align="center">🎯 Take a look at some of my previous projects!</h3>
 <div align="center">
   <a href="https://github.com/addomingo/CMSC-23-2024-GiveCommit">
     <img src="https://img.shields.io/badge/GiveCommit-0B3A82?style=flat-square" height="24"/>
